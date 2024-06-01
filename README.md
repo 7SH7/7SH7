@@ -9,8 +9,8 @@
 ---
 
 ### Project
-1. Viaflight (경유공항 관련 프로젝트) : 경유 공항 도착 시간 입력 시, 즐길 수 있는 프로그램 및 음식점 제공 (Changi Airport에 한함.) : spring boot의 전체적 맥락 학습(java, spring boot)
-2. hot spot : 맵기에 따른 음식점 평가 커뮤니티 : spring boot에서 조금 더 나아가기 (kakao api (WebFlux), cache memory(redis caffeine) )
+1. Viaflight (경유공항 관련 프로젝트) : 경유 공항 도착 시간 입력 시, 즐길 수 있는 프로그램 및 음식점 제공(Changi Airport에 한함.) <br/> - spring boot의 전체적 맥락 학습(java, spring boot)
+2. hot spot : 맵기에 따른 음식점 평가 커뮤니티 : spring boot에서 조금 더 나아가기 <br/> - kakao api (WebFlux), cache memory(redis caffeine) 
 <!-- 3. flutter 개발 --> 
 
 ---
