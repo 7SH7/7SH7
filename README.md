@@ -36,6 +36,8 @@ DATABASE : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-bad
 
 Goal : 위에서 학습해본 기술들로 각각 프로젝트 1~2회 해보기!
 
+현재 학습 중 : python(np,pd), data_analysis, ML, DL, ..
+
 
 ---
 
