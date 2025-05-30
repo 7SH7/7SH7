@@ -62,11 +62,9 @@
 
 ---
 
-<!-- ## 🧠 Education -->
+## 🧠 Contact me 
 
-<!-- 1. TTA CSTS 관련 교육 수료 -->
-<!-- 2. Fintech Academy (2022.02) -->
-<!-- 3. (추가 예정: elice 등) -->
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">]([https://www.linkedin.com/in/dabin-lee-8b8041271/](https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EA%B9%80-a444ba2b0/)) 
 
 <!--  ---  -->
 
