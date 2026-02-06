@@ -55,8 +55,8 @@
 
 ## 🧑‍🤝‍🧑 Team & Activity
 
-- 🎓 [한동대학교 (Handong Global University)](https://github.com/Handong-Global-Univ) (2020.03 ~ )
-- 🦁 [멋쟁이사자처럼 (LikeLionHGU)](https://github.com/LikeLionHGU) (2023.11 ~ )
+- 🎓 [한동대학교 (Handong Global University)](https://github.com/Handong-Global-Univ) (2020.03 ~ 2026.02)
+- 🦁 [멋쟁이사자처럼 (LikeLionHGU)](https://github.com/LikeLionHGU) (2023.11 ~ 2025.08)
 
 ---
 
