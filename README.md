@@ -48,9 +48,3 @@
 ## 🧠 Contact me 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">]([https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EA%B9%80-a444ba2b0/](https://www.linkedin.com/in/%EC%8A%B9%ED%99%98-%EA%B9%80-a444ba2b0/))
-
-<!--  ---  -->
-
-## 🧩 Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksh4849)](https://solved.ac/ksh4849)
